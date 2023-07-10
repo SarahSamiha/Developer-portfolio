@@ -125,3 +125,15 @@ nav a {
 .about-info{
     text-align: center;
 }
+
+/* skill related styles */
+#what-i-do-description{
+    padding: 30px 150px;
+}
+.skills-container{
+    display: flex;
+    gap: 24px;
+}
+.skills{
+    padding: 30px;
+}
